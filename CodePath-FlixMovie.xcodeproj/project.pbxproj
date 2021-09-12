@@ -13,7 +13,6 @@
 		DE02AB7B26EBEF5B000D6F82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE02AB7926EBEF5B000D6F82 /* Main.storyboard */; };
 		DE02AB7D26EBEF5E000D6F82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE02AB7C26EBEF5E000D6F82 /* Assets.xcassets */; };
 		DE02AB8026EBEF5E000D6F82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE02AB7E26EBEF5E000D6F82 /* LaunchScreen.storyboard */; };
-		DE02AB8A26EC185D000D6F82 /* FlixMovieController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE02AB8926EC185D000D6F82 /* FlixMovieController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,7 @@
 		DE02AB7C26EBEF5E000D6F82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE02AB7F26EBEF5E000D6F82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE02AB8126EBEF5E000D6F82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DE02AB8926EC185D000D6F82 /* FlixMovieController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixMovieController.swift; sourceTree = "<group>"; };
+		DE8EBFB126EEA7C000DB8D8D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +41,7 @@
 		DE02AB6726EBEF5B000D6F82 = {
 			isa = PBXGroup;
 			children = (
-				DE02AB8926EC185D000D6F82 /* FlixMovieController.swift */,
+				DE8EBFB126EEA7C000DB8D8D /* README.md */,
 				DE02AB7226EBEF5B000D6F82 /* CodePath-FlixMovie */,
 				DE02AB7126EBEF5B000D6F82 /* Products */,
 			);
@@ -143,7 +142,6 @@
 				DE02AB7826EBEF5B000D6F82 /* ViewController.swift in Sources */,
 				DE02AB7426EBEF5B000D6F82 /* AppDelegate.swift in Sources */,
 				DE02AB7626EBEF5B000D6F82 /* SceneDelegate.swift in Sources */,
-				DE02AB8A26EC185D000D6F82 /* FlixMovieController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
