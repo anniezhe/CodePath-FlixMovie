@@ -16,5 +16,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src='Annie_He_Flix1.gif' title='Flix Part 1' width='' alt='Flix Part 1' />
 
 ### Notes
-Describe any challenges encountered while building the app.
+I ran into trouble with getting familiar with XCode, specifically the location of important tools, and showing the gif on GitHub. I watched YouTube videos and read articles from various websites to help me with getting familiar with the locations. I made sure the gif was in the approriate folder, looked up how to insert img tag, and implemented it on the README. 
 
