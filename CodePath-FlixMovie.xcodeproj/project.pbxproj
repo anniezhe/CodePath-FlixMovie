@@ -31,6 +31,7 @@
 		DE8EBFB126EEA7C000DB8D8D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DE8EBFC726EED84700DB8D8D /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		DE8EBFCC26EEE4AA00DB8D8D /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		DE8EBFCE26EEFF6B00DB8D8D /* Annie_He_Flix1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Annie_He_Flix1.gif; path = ../../../Users/anniehe/Downloads/Annie_He_Flix1.gif; sourceTree = "<group>"; };
 		E790AB8D5397A46CCF262494 /* Pods-CodePath-FlixMovie.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CodePath-FlixMovie.debug.xcconfig"; path = "Target Support Files/Pods-CodePath-FlixMovie/Pods-CodePath-FlixMovie.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -53,7 +54,6 @@
 				E790AB8D5397A46CCF262494 /* Pods-CodePath-FlixMovie.debug.xcconfig */,
 				B9465DC36F30E228250137D0 /* Pods-CodePath-FlixMovie.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -68,6 +68,7 @@
 		DE02AB6726EBEF5B000D6F82 = {
 			isa = PBXGroup;
 			children = (
+				DE8EBFCE26EEFF6B00DB8D8D /* Annie_He_Flix1.gif */,
 				DE8EBFB126EEA7C000DB8D8D /* README.md */,
 				DE02AB7226EBEF5B000D6F82 /* CodePath-FlixMovie */,
 				DE02AB7126EBEF5B000D6F82 /* Products */,
